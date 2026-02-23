@@ -66,7 +66,7 @@ const ANIMATION_DURATION = 0.2; // seconds
 // ⚠️ 請將這裡換成你的機器人連結！
 // 格式：https://t.me/你的機器人ID/你的App短名
 // 例如：https://t.me/my_2048_bot/game
-const GAME_URL = 'https://t.me/my-2048-test-bot/開始遊戲'; 
+const GAME_URL = 'https://t.me/my-2048-test-bot/game'; 
 
 // Color Palette for Tiles (You can change these!)
 const TILE_COLORS: Record<number, string> = {
