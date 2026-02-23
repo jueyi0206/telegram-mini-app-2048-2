@@ -66,7 +66,7 @@ const ANIMATION_DURATION = 0.2; // seconds
 // ⚠️ 請將這裡換成你的機器人連結！
 // 格式：https://t.me/你的機器人ID/你的App短名
 // 例如：https://t.me/my_2048_bot/game
-const GAME_URL = 'https://t.me/OrdTetris2048_bot/開始遊戲'; 
+const GAME_URL = 'https://t.me/OrdTetris2048_bot/tetris2048'; 
 
 // Color Palette for Tiles (You can change these!)
 const TILE_COLORS: Record<number, string> = {
